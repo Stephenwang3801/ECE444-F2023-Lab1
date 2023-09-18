@@ -19,3 +19,11 @@ This repo is a clone of: https://github.com/miguelgrinberg/flasky
 # ACTIVITY 3
 
 <img width="498" alt="Screenshot 2023-09-18 at 6 11 33 PM" src="https://github.com/Stephenwang3801/ECE444-F2023-Lab1/assets/25191547/a9304c5b-b277-4dd7-bad2-75edf3a4a970">
+
+
+# ACTIVITY 4
+
+<img width="757" alt="Screenshot 2023-09-18 at 6 56 20 PM" src="https://github.com/Stephenwang3801/ECE444-F2023-Lab1/assets/25191547/cf961274-9fd0-47db-ad6b-024a2182abce">
+<img width="973" alt="Screenshot 2023-09-18 at 6 57 58 PM" src="https://github.com/Stephenwang3801/ECE444-F2023-Lab1/assets/25191547/b70e1238-9beb-4fc1-8c57-e26bb10b8513">
+<img width="905" alt="Screenshot 2023-09-18 at 7 01 51 PM" src="https://github.com/Stephenwang3801/ECE444-F2023-Lab1/assets/25191547/fda8af41-f173-4077-888e-a8325f0b6cf9">
+<img width="779" alt="Screenshot 2023-09-18 at 7 09 28 PM" src="https://github.com/Stephenwang3801/ECE444-F2023-Lab1/assets/25191547/8eaadb4b-962d-43c3-bff5-08542b1ad6eb">

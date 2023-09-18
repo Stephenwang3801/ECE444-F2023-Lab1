@@ -14,4 +14,6 @@ This repo is a clone of: https://github.com/miguelgrinberg/flasky
 
 ### Example 2-2
 
+<img width="433" alt="Screenshot 2023-09-18 at 4 59 38 PM" src="https://github.com/Stephenwang3801/ECE444-F2023-Lab1/assets/25191547/b82780f7-0e9b-4a91-b052-6da0b8099f5b">
 
+# ACTIVITY 3

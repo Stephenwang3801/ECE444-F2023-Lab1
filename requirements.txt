@@ -1,0 +1,9 @@
+# This file may be used to create an environment using:
+flask
+flask_bootstrap
+flask_wtf
+flask_moment
+itsdangerous
+jinja2
+werkzeug
+wtforms

@@ -7,6 +7,8 @@ This repo is a clone of: https://github.com/miguelgrinberg/flasky
 
 # ACTIVITY 2 Docker Installation
 
+<img width="427" alt="Screenshot 2023-10-02 at 4 22 13 PM" src="https://github.com/Stephenwang3801/ECE444-F2023-Lab1/assets/25191547/6856ff44-0748-426f-a488-7e971b98ca50">
+
 # ACTIVITY 3 Getting things ready locally
 
 # ACTIVITY 4 Building and running the docker image locally
